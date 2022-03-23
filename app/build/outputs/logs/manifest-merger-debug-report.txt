@@ -1,0 +1,363 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [androidx.databinding:viewbinding:7.0.4] /home/galkinds/.gradle/caches/transforms-3/b2dedba6f49c4920e1280cb8bb75ada7/transformed/jetified-viewbinding-7.0.4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.multidex:multidex:2.0.0] /home/galkinds/.gradle/caches/transforms-3/58f02e966b6cdcc93c479333bf6d8332/transformed/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.4.1] /home/galkinds/.gradle/caches/transforms-3/df6272f7b068fad807bdf4c256ef7621/transformed/navigation-fragment-ktx-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.4.1] /home/galkinds/.gradle/caches/transforms-3/abe3fe249b28066d0a5f67e9a3c094d4/transformed/navigation-fragment-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] /home/galkinds/.gradle/caches/transforms-3/9e15bb4f7084c68f95a06a37565e5f3d/transformed/jetified-fragment-ktx-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.4.1] /home/galkinds/.gradle/caches/transforms-3/15bf999b65df89ac9b7c63ffc78a3b71/transformed/navigation-ui-ktx-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.4.1] /home/galkinds/.gradle/caches/transforms-3/c2233f402494cb0a2073df5b9768b4f2/transformed/navigation-ui-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.4.0] /home/galkinds/.gradle/caches/transforms-3/81b7aba3a228b6ca5184dc7e6c159fc8/transformed/material-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] /home/galkinds/.gradle/caches/transforms-3/15f0ea1406d73db79abf6c3e12c0feeb/transformed/constraintlayout-2.1.2/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.0] /home/galkinds/.gradle/caches/transforms-3/d56b1f25112e785445562e50ab0f9090/transformed/appcompat-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/galkinds/.gradle/caches/transforms-3/3ad0f9f06a7c6f69c5aee545fa63fae1/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.4.1] /home/galkinds/.gradle/caches/transforms-3/0ba1360d8e996979664479fa1976a000/transformed/fragment-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.1] /home/galkinds/.gradle/caches/transforms-3/f8bd0315996d11ac218b25ad63bf3f9f/transformed/navigation-runtime-ktx-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.4.1] /home/galkinds/.gradle/caches/transforms-3/ef5f9b209013d32f62bfa006efd55afe/transformed/navigation-runtime-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.2.3] /home/galkinds/.gradle/caches/transforms-3/2ff74dd5bc6ddf15ab91d2086ca711ac/transformed/jetified-activity-ktx-1.2.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.4.1] /home/galkinds/.gradle/caches/transforms-3/ad70216e9e17b11a158d7e0635815cad/transformed/navigation-common-ktx-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.4.1] /home/galkinds/.gradle/caches/transforms-3/b2cb0bc96fc430b7a466afa389edc44b/transformed/navigation-common-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.7.0] /home/galkinds/.gradle/caches/transforms-3/6fd3cdf0782e7de218ca3e987c3b44f2/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.datastore:datastore-preferences:1.0.0] /home/galkinds/.gradle/caches/transforms-3/bcce8396eee3153b6ef858869e97138b/transformed/jetified-datastore-preferences-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-ktx:2.4.0] /home/galkinds/.gradle/caches/transforms-3/4f4a07130b34a1f9d6ec587c9a24dc59/transformed/jetified-room-ktx-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.4.0] /home/galkinds/.gradle/caches/transforms-3/8c9ae9876c358513f8cded62b69a3947/transformed/jetified-lifecycle-runtime-ktx-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.0] /home/galkinds/.gradle/caches/transforms-3/ba0d37f2337e4fdd8c671b2530971c99/transformed/jetified-lifecycle-viewmodel-ktx-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.4.0] /home/galkinds/.gradle/caches/transforms-3/245d312ff67ab0cb48853cdc6351aabd/transformed/jetified-lifecycle-livedata-ktx-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.datastore:datastore:1.0.0] /home/galkinds/.gradle/caches/transforms-3/2f127d1b719129ab9d099bc77f10ed6d/transformed/jetified-datastore-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /home/galkinds/.gradle/caches/transforms-3/a16ae4886a946b06fc6be8b0f0ad78ff/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] /home/galkinds/.gradle/caches/transforms-3/17fecd81d725e7bba130e18847472907/transformed/jetified-window-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.activity:activity:1.2.4] /home/galkinds/.gradle/caches/transforms-3/e4cb51d778a44776c3159cbddddd4502/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/galkinds/.gradle/caches/transforms-3/15d79eac6de01247f043d9c5a8980c98/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/galkinds/.gradle/caches/transforms-3/63220c8edd2bdbda234190295bf3b6e4/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/galkinds/.gradle/caches/transforms-3/25abd7387c6d0b5f4725e5b8c68155b6/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/galkinds/.gradle/caches/transforms-3/e45ef7ac29abc28e56ac45b8abc6bbb4/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.0] /home/galkinds/.gradle/caches/transforms-3/fdf5d183a98c09b9af65fb34134a4b45/transformed/lifecycle-viewmodel-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.4.0] /home/galkinds/.gradle/caches/transforms-3/ba4480360a4cceeb85d0789b8edf32cc/transformed/jetified-lifecycle-livedata-core-ktx-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /home/galkinds/.gradle/caches/transforms-3/8528366f2571129e6c243236dec63c95/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /home/galkinds/.gradle/caches/transforms-3/bb28f258cb1319b52bf519685bf34108/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:dagger-android:2.35.1] /home/galkinds/.gradle/caches/transforms-3/f5994a8b2854f7a48fce25f2a52723a8/transformed/jetified-dagger-android-2.35.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-runtime:2.4.0] /home/galkinds/.gradle/caches/transforms-3/463e013742a8c16868f992e375c006d5/transformed/room-runtime-2.4.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/galkinds/.gradle/caches/transforms-3/0e4dece45a4bd23632562a1319d52fc3/transformed/jetified-picasso-2.71828/AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0] /home/galkinds/.gradle/caches/transforms-3/b1f39d301d863b85187e0ff702a831a0/transformed/jetified-appcompat-resources-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /home/galkinds/.gradle/caches/transforms-3/523cf1e250fe9754fe3f3ee4047ac6ba/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/galkinds/.gradle/caches/transforms-3/9e3a7840017ab69be063f16e93bbe60c/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/galkinds/.gradle/caches/transforms-3/55a9e56c74e7a39d7806446d14fedd3c/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/galkinds/.gradle/caches/transforms-3/451780db8a80cacc645d089b99e91bc6/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/galkinds/.gradle/caches/transforms-3/c77bd136688f4b85049642b02045a9e9/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/galkinds/.gradle/caches/transforms-3/622b5c9eb093960a818fbf1755377100/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/galkinds/.gradle/caches/transforms-3/3c6d2551dd104ef2f87330a24dfdf961/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/galkinds/.gradle/caches/transforms-3/dec337c2f8d10c63c68f6f0614ab86b7/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /home/galkinds/.gradle/caches/transforms-3/f44b569c9b634c31d5aa1fb3c75bd01a/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] /home/galkinds/.gradle/caches/transforms-3/efacfec2d4d044fd663d482336968f3e/transformed/transition-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.7.0] /home/galkinds/.gradle/caches/transforms-3/23df63874de5a450ccc7bc448559c431/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/galkinds/.gradle/caches/transforms-3/c372e976bda00ec90d1c9c15f48120c8/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/galkinds/.gradle/caches/transforms-3/ecccb3b1e2751854a7212de72a454f17/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/galkinds/.gradle/caches/transforms-3/5a04c193bb905704aff98fdb1a445df8/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/galkinds/.gradle/caches/transforms-3/e0b7c40f8844596d939bc139f5b87eb8/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] /home/galkinds/.gradle/caches/transforms-3/bd6f2e200e3c4414ba6f5d28a4436aad/transformed/sqlite-framework-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.2.0] /home/galkinds/.gradle/caches/transforms-3/ac0614804e0d5e3f002fa43a10027b28/transformed/sqlite-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/galkinds/.gradle/caches/transforms-3/9ad4dc8d16f11e8d0837963977e51ef3/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /home/galkinds/.gradle/caches/transforms-3/c12ec1e4a243867f22131c8881a8cdaf/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/galkinds/.gradle/caches/transforms-3/a2a69b799766839b1ee31581b947998d/transformed/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/galkinds/.gradle/caches/transforms-3/7832553c4fc5df47ce7f5ad327b5c815/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/galkinds/.gradle/caches/transforms-3/647bc03c38bcb4d66f16baf229bfcd3f/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/galkinds/.gradle/caches/transforms-3/5e9171f85a30585539d78e6657dcecdb/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.0] /home/galkinds/.gradle/caches/transforms-3/3a6ea1a7bea2b80e12da171c8a65ee35/transformed/lifecycle-livedata-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.4.0] /home/galkinds/.gradle/caches/transforms-3/2e1715061c6fbe8dcc83f8a7433a2b64/transformed/lifecycle-livedata-core-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/galkinds/.gradle/caches/transforms-3/1795f362d8f0b276a7b024d495bc3f0a/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/galkinds/.gradle/caches/transforms-3/65eda2d6cc7e33898f5e746416552bc2/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/galkinds/.gradle/caches/transforms-3/f6351afac2b4f8ce0dcaea5c5a0b8e8e/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/galkinds/.gradle/caches/transforms-3/bbf2246773e2c64a211417c52c4fd0b9/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/galkinds/.gradle/caches/transforms-3/2597596328b475a58029c1e2a185ba3e/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.35.1] /home/galkinds/.gradle/caches/transforms-3/999d5bfede9b0767f1e4e3e2288fc094/transformed/jetified-dagger-lint-aar-2.35.1/AndroidManifest.xml:16:1-19:12
+INJECTED from /home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml
+		INJECTED from /home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml
+		ADDED from /home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml
+		ADDED from /home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml:7:5-25:19
+MERGED from [com.google.android.material:material:1.4.0] /home/galkinds/.gradle/caches/transforms-3/81b7aba3a228b6ca5184dc7e6c159fc8/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] /home/galkinds/.gradle/caches/transforms-3/81b7aba3a228b6ca5184dc7e6c159fc8/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] /home/galkinds/.gradle/caches/transforms-3/15f0ea1406d73db79abf6c3e12c0feeb/transformed/constraintlayout-2.1.2/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] /home/galkinds/.gradle/caches/transforms-3/15f0ea1406d73db79abf6c3e12c0feeb/transformed/constraintlayout-2.1.2/AndroidManifest.xml:9:5-20
+MERGED from [androidx.window:window:1.0.0] /home/galkinds/.gradle/caches/transforms-3/17fecd81d725e7bba130e18847472907/transformed/jetified-window-1.0.0/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] /home/galkinds/.gradle/caches/transforms-3/17fecd81d725e7bba130e18847472907/transformed/jetified-window-1.0.0/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.room:room-runtime:2.4.0] /home/galkinds/.gradle/caches/transforms-3/463e013742a8c16868f992e375c006d5/transformed/room-runtime-2.4.0/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.4.0] /home/galkinds/.gradle/caches/transforms-3/463e013742a8c16868f992e375c006d5/transformed/room-runtime-2.4.0/AndroidManifest.xml:24:5-29:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/galkinds/.gradle/caches/transforms-3/0e4dece45a4bd23632562a1319d52fc3/transformed/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/galkinds/.gradle/caches/transforms-3/0e4dece45a4bd23632562a1319d52fc3/transformed/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/galkinds/.gradle/caches/transforms-3/9e3a7840017ab69be063f16e93bbe60c/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/galkinds/.gradle/caches/transforms-3/9e3a7840017ab69be063f16e93bbe60c/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] /home/galkinds/.gradle/caches/transforms-3/23df63874de5a450ccc7bc448559c431/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /home/galkinds/.gradle/caches/transforms-3/23df63874de5a450ccc7bc448559c431/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/galkinds/.gradle/caches/transforms-3/9ad4dc8d16f11e8d0837963977e51ef3/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/galkinds/.gradle/caches/transforms-3/9ad4dc8d16f11e8d0837963977e51ef3/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/galkinds/.gradle/caches/transforms-3/7832553c4fc5df47ce7f5ad327b5c815/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/galkinds/.gradle/caches/transforms-3/7832553c4fc5df47ce7f5ad327b5c815/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/galkinds/.gradle/caches/transforms-3/647bc03c38bcb4d66f16baf229bfcd3f/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/galkinds/.gradle/caches/transforms-3/647bc03c38bcb4d66f16baf229bfcd3f/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /home/galkinds/.gradle/caches/transforms-3/23df63874de5a450ccc7bc448559c431/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from /home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml:10:9-37
+	android:allowBackup
+		ADDED from /home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml:13:9-50
+	android:name
+		ADDED from /home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml:8:9-56
+activity#com.denis.appForRentaTeam.ui.MainActivity
+ADDED from /home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml:14:9-21:20
+	android:exported
+		ADDED from /home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from /home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml:15:13-69
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml:17:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml:19:27-74
+meta-data#preloaded_fonts
+ADDED from /home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml:22:9-24:57
+	android:resource
+		ADDED from /home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml:24:13-54
+	android:name
+		ADDED from /home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml:23:13-43
+uses-sdk
+INJECTED from /home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml
+INJECTED from /home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.0.4] /home/galkinds/.gradle/caches/transforms-3/b2dedba6f49c4920e1280cb8bb75ada7/transformed/jetified-viewbinding-7.0.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:7.0.4] /home/galkinds/.gradle/caches/transforms-3/b2dedba6f49c4920e1280cb8bb75ada7/transformed/jetified-viewbinding-7.0.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.multidex:multidex:2.0.0] /home/galkinds/.gradle/caches/transforms-3/58f02e966b6cdcc93c479333bf6d8332/transformed/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /home/galkinds/.gradle/caches/transforms-3/58f02e966b6cdcc93c479333bf6d8332/transformed/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.4.1] /home/galkinds/.gradle/caches/transforms-3/df6272f7b068fad807bdf4c256ef7621/transformed/navigation-fragment-ktx-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.4.1] /home/galkinds/.gradle/caches/transforms-3/df6272f7b068fad807bdf4c256ef7621/transformed/navigation-fragment-ktx-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.4.1] /home/galkinds/.gradle/caches/transforms-3/abe3fe249b28066d0a5f67e9a3c094d4/transformed/navigation-fragment-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.4.1] /home/galkinds/.gradle/caches/transforms-3/abe3fe249b28066d0a5f67e9a3c094d4/transformed/navigation-fragment-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] /home/galkinds/.gradle/caches/transforms-3/9e15bb4f7084c68f95a06a37565e5f3d/transformed/jetified-fragment-ktx-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] /home/galkinds/.gradle/caches/transforms-3/9e15bb4f7084c68f95a06a37565e5f3d/transformed/jetified-fragment-ktx-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.4.1] /home/galkinds/.gradle/caches/transforms-3/15bf999b65df89ac9b7c63ffc78a3b71/transformed/navigation-ui-ktx-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.4.1] /home/galkinds/.gradle/caches/transforms-3/15bf999b65df89ac9b7c63ffc78a3b71/transformed/navigation-ui-ktx-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.4.1] /home/galkinds/.gradle/caches/transforms-3/c2233f402494cb0a2073df5b9768b4f2/transformed/navigation-ui-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.4.1] /home/galkinds/.gradle/caches/transforms-3/c2233f402494cb0a2073df5b9768b4f2/transformed/navigation-ui-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.4.0] /home/galkinds/.gradle/caches/transforms-3/81b7aba3a228b6ca5184dc7e6c159fc8/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /home/galkinds/.gradle/caches/transforms-3/81b7aba3a228b6ca5184dc7e6c159fc8/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] /home/galkinds/.gradle/caches/transforms-3/15f0ea1406d73db79abf6c3e12c0feeb/transformed/constraintlayout-2.1.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] /home/galkinds/.gradle/caches/transforms-3/15f0ea1406d73db79abf6c3e12c0feeb/transformed/constraintlayout-2.1.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.0] /home/galkinds/.gradle/caches/transforms-3/d56b1f25112e785445562e50ab0f9090/transformed/appcompat-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.0] /home/galkinds/.gradle/caches/transforms-3/d56b1f25112e785445562e50ab0f9090/transformed/appcompat-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/galkinds/.gradle/caches/transforms-3/3ad0f9f06a7c6f69c5aee545fa63fae1/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/galkinds/.gradle/caches/transforms-3/3ad0f9f06a7c6f69c5aee545fa63fae1/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.4.1] /home/galkinds/.gradle/caches/transforms-3/0ba1360d8e996979664479fa1976a000/transformed/fragment-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.4.1] /home/galkinds/.gradle/caches/transforms-3/0ba1360d8e996979664479fa1976a000/transformed/fragment-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.1] /home/galkinds/.gradle/caches/transforms-3/f8bd0315996d11ac218b25ad63bf3f9f/transformed/navigation-runtime-ktx-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.1] /home/galkinds/.gradle/caches/transforms-3/f8bd0315996d11ac218b25ad63bf3f9f/transformed/navigation-runtime-ktx-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.4.1] /home/galkinds/.gradle/caches/transforms-3/ef5f9b209013d32f62bfa006efd55afe/transformed/navigation-runtime-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.4.1] /home/galkinds/.gradle/caches/transforms-3/ef5f9b209013d32f62bfa006efd55afe/transformed/navigation-runtime-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.3] /home/galkinds/.gradle/caches/transforms-3/2ff74dd5bc6ddf15ab91d2086ca711ac/transformed/jetified-activity-ktx-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.3] /home/galkinds/.gradle/caches/transforms-3/2ff74dd5bc6ddf15ab91d2086ca711ac/transformed/jetified-activity-ktx-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.4.1] /home/galkinds/.gradle/caches/transforms-3/ad70216e9e17b11a158d7e0635815cad/transformed/navigation-common-ktx-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.4.1] /home/galkinds/.gradle/caches/transforms-3/ad70216e9e17b11a158d7e0635815cad/transformed/navigation-common-ktx-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.4.1] /home/galkinds/.gradle/caches/transforms-3/b2cb0bc96fc430b7a466afa389edc44b/transformed/navigation-common-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.4.1] /home/galkinds/.gradle/caches/transforms-3/b2cb0bc96fc430b7a466afa389edc44b/transformed/navigation-common-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.7.0] /home/galkinds/.gradle/caches/transforms-3/6fd3cdf0782e7de218ca3e987c3b44f2/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] /home/galkinds/.gradle/caches/transforms-3/6fd3cdf0782e7de218ca3e987c3b44f2/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.datastore:datastore-preferences:1.0.0] /home/galkinds/.gradle/caches/transforms-3/bcce8396eee3153b6ef858869e97138b/transformed/jetified-datastore-preferences-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore-preferences:1.0.0] /home/galkinds/.gradle/caches/transforms-3/bcce8396eee3153b6ef858869e97138b/transformed/jetified-datastore-preferences-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.4.0] /home/galkinds/.gradle/caches/transforms-3/4f4a07130b34a1f9d6ec587c9a24dc59/transformed/jetified-room-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.4.0] /home/galkinds/.gradle/caches/transforms-3/4f4a07130b34a1f9d6ec587c9a24dc59/transformed/jetified-room-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.4.0] /home/galkinds/.gradle/caches/transforms-3/8c9ae9876c358513f8cded62b69a3947/transformed/jetified-lifecycle-runtime-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.4.0] /home/galkinds/.gradle/caches/transforms-3/8c9ae9876c358513f8cded62b69a3947/transformed/jetified-lifecycle-runtime-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.0] /home/galkinds/.gradle/caches/transforms-3/ba0d37f2337e4fdd8c671b2530971c99/transformed/jetified-lifecycle-viewmodel-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.0] /home/galkinds/.gradle/caches/transforms-3/ba0d37f2337e4fdd8c671b2530971c99/transformed/jetified-lifecycle-viewmodel-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.4.0] /home/galkinds/.gradle/caches/transforms-3/245d312ff67ab0cb48853cdc6351aabd/transformed/jetified-lifecycle-livedata-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.4.0] /home/galkinds/.gradle/caches/transforms-3/245d312ff67ab0cb48853cdc6351aabd/transformed/jetified-lifecycle-livedata-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore:1.0.0] /home/galkinds/.gradle/caches/transforms-3/2f127d1b719129ab9d099bc77f10ed6d/transformed/jetified-datastore-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore:1.0.0] /home/galkinds/.gradle/caches/transforms-3/2f127d1b719129ab9d099bc77f10ed6d/transformed/jetified-datastore-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /home/galkinds/.gradle/caches/transforms-3/a16ae4886a946b06fc6be8b0f0ad78ff/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /home/galkinds/.gradle/caches/transforms-3/a16ae4886a946b06fc6be8b0f0ad78ff/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] /home/galkinds/.gradle/caches/transforms-3/17fecd81d725e7bba130e18847472907/transformed/jetified-window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] /home/galkinds/.gradle/caches/transforms-3/17fecd81d725e7bba130e18847472907/transformed/jetified-window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /home/galkinds/.gradle/caches/transforms-3/e4cb51d778a44776c3159cbddddd4502/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /home/galkinds/.gradle/caches/transforms-3/e4cb51d778a44776c3159cbddddd4502/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/galkinds/.gradle/caches/transforms-3/15d79eac6de01247f043d9c5a8980c98/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/galkinds/.gradle/caches/transforms-3/15d79eac6de01247f043d9c5a8980c98/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/galkinds/.gradle/caches/transforms-3/63220c8edd2bdbda234190295bf3b6e4/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/galkinds/.gradle/caches/transforms-3/63220c8edd2bdbda234190295bf3b6e4/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/galkinds/.gradle/caches/transforms-3/25abd7387c6d0b5f4725e5b8c68155b6/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/galkinds/.gradle/caches/transforms-3/25abd7387c6d0b5f4725e5b8c68155b6/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/galkinds/.gradle/caches/transforms-3/e45ef7ac29abc28e56ac45b8abc6bbb4/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/galkinds/.gradle/caches/transforms-3/e45ef7ac29abc28e56ac45b8abc6bbb4/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.0] /home/galkinds/.gradle/caches/transforms-3/fdf5d183a98c09b9af65fb34134a4b45/transformed/lifecycle-viewmodel-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.0] /home/galkinds/.gradle/caches/transforms-3/fdf5d183a98c09b9af65fb34134a4b45/transformed/lifecycle-viewmodel-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.4.0] /home/galkinds/.gradle/caches/transforms-3/ba4480360a4cceeb85d0789b8edf32cc/transformed/jetified-lifecycle-livedata-core-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.4.0] /home/galkinds/.gradle/caches/transforms-3/ba4480360a4cceeb85d0789b8edf32cc/transformed/jetified-lifecycle-livedata-core-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /home/galkinds/.gradle/caches/transforms-3/8528366f2571129e6c243236dec63c95/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /home/galkinds/.gradle/caches/transforms-3/8528366f2571129e6c243236dec63c95/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /home/galkinds/.gradle/caches/transforms-3/bb28f258cb1319b52bf519685bf34108/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /home/galkinds/.gradle/caches/transforms-3/bb28f258cb1319b52bf519685bf34108/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:dagger-android:2.35.1] /home/galkinds/.gradle/caches/transforms-3/f5994a8b2854f7a48fce25f2a52723a8/transformed/jetified-dagger-android-2.35.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-android:2.35.1] /home/galkinds/.gradle/caches/transforms-3/f5994a8b2854f7a48fce25f2a52723a8/transformed/jetified-dagger-android-2.35.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.4.0] /home/galkinds/.gradle/caches/transforms-3/463e013742a8c16868f992e375c006d5/transformed/room-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.4.0] /home/galkinds/.gradle/caches/transforms-3/463e013742a8c16868f992e375c006d5/transformed/room-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/galkinds/.gradle/caches/transforms-3/0e4dece45a4bd23632562a1319d52fc3/transformed/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/galkinds/.gradle/caches/transforms-3/0e4dece45a4bd23632562a1319d52fc3/transformed/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0] /home/galkinds/.gradle/caches/transforms-3/b1f39d301d863b85187e0ff702a831a0/transformed/jetified-appcompat-resources-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0] /home/galkinds/.gradle/caches/transforms-3/b1f39d301d863b85187e0ff702a831a0/transformed/jetified-appcompat-resources-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /home/galkinds/.gradle/caches/transforms-3/523cf1e250fe9754fe3f3ee4047ac6ba/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /home/galkinds/.gradle/caches/transforms-3/523cf1e250fe9754fe3f3ee4047ac6ba/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/galkinds/.gradle/caches/transforms-3/9e3a7840017ab69be063f16e93bbe60c/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/galkinds/.gradle/caches/transforms-3/9e3a7840017ab69be063f16e93bbe60c/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/galkinds/.gradle/caches/transforms-3/55a9e56c74e7a39d7806446d14fedd3c/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/galkinds/.gradle/caches/transforms-3/55a9e56c74e7a39d7806446d14fedd3c/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/galkinds/.gradle/caches/transforms-3/451780db8a80cacc645d089b99e91bc6/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/galkinds/.gradle/caches/transforms-3/451780db8a80cacc645d089b99e91bc6/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/galkinds/.gradle/caches/transforms-3/c77bd136688f4b85049642b02045a9e9/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/galkinds/.gradle/caches/transforms-3/c77bd136688f4b85049642b02045a9e9/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/galkinds/.gradle/caches/transforms-3/622b5c9eb093960a818fbf1755377100/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/galkinds/.gradle/caches/transforms-3/622b5c9eb093960a818fbf1755377100/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/galkinds/.gradle/caches/transforms-3/3c6d2551dd104ef2f87330a24dfdf961/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/galkinds/.gradle/caches/transforms-3/3c6d2551dd104ef2f87330a24dfdf961/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/galkinds/.gradle/caches/transforms-3/dec337c2f8d10c63c68f6f0614ab86b7/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/galkinds/.gradle/caches/transforms-3/dec337c2f8d10c63c68f6f0614ab86b7/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /home/galkinds/.gradle/caches/transforms-3/f44b569c9b634c31d5aa1fb3c75bd01a/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/galkinds/.gradle/caches/transforms-3/f44b569c9b634c31d5aa1fb3c75bd01a/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] /home/galkinds/.gradle/caches/transforms-3/efacfec2d4d044fd663d482336968f3e/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] /home/galkinds/.gradle/caches/transforms-3/efacfec2d4d044fd663d482336968f3e/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /home/galkinds/.gradle/caches/transforms-3/23df63874de5a450ccc7bc448559c431/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /home/galkinds/.gradle/caches/transforms-3/23df63874de5a450ccc7bc448559c431/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/galkinds/.gradle/caches/transforms-3/c372e976bda00ec90d1c9c15f48120c8/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/galkinds/.gradle/caches/transforms-3/c372e976bda00ec90d1c9c15f48120c8/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/galkinds/.gradle/caches/transforms-3/ecccb3b1e2751854a7212de72a454f17/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/galkinds/.gradle/caches/transforms-3/ecccb3b1e2751854a7212de72a454f17/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/galkinds/.gradle/caches/transforms-3/5a04c193bb905704aff98fdb1a445df8/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/galkinds/.gradle/caches/transforms-3/5a04c193bb905704aff98fdb1a445df8/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/galkinds/.gradle/caches/transforms-3/e0b7c40f8844596d939bc139f5b87eb8/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/galkinds/.gradle/caches/transforms-3/e0b7c40f8844596d939bc139f5b87eb8/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] /home/galkinds/.gradle/caches/transforms-3/bd6f2e200e3c4414ba6f5d28a4436aad/transformed/sqlite-framework-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] /home/galkinds/.gradle/caches/transforms-3/bd6f2e200e3c4414ba6f5d28a4436aad/transformed/sqlite-framework-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.2.0] /home/galkinds/.gradle/caches/transforms-3/ac0614804e0d5e3f002fa43a10027b28/transformed/sqlite-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.2.0] /home/galkinds/.gradle/caches/transforms-3/ac0614804e0d5e3f002fa43a10027b28/transformed/sqlite-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/galkinds/.gradle/caches/transforms-3/9ad4dc8d16f11e8d0837963977e51ef3/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/galkinds/.gradle/caches/transforms-3/9ad4dc8d16f11e8d0837963977e51ef3/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /home/galkinds/.gradle/caches/transforms-3/c12ec1e4a243867f22131c8881a8cdaf/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /home/galkinds/.gradle/caches/transforms-3/c12ec1e4a243867f22131c8881a8cdaf/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/galkinds/.gradle/caches/transforms-3/a2a69b799766839b1ee31581b947998d/transformed/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/galkinds/.gradle/caches/transforms-3/a2a69b799766839b1ee31581b947998d/transformed/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/galkinds/.gradle/caches/transforms-3/7832553c4fc5df47ce7f5ad327b5c815/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/galkinds/.gradle/caches/transforms-3/7832553c4fc5df47ce7f5ad327b5c815/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/galkinds/.gradle/caches/transforms-3/647bc03c38bcb4d66f16baf229bfcd3f/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/galkinds/.gradle/caches/transforms-3/647bc03c38bcb4d66f16baf229bfcd3f/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/galkinds/.gradle/caches/transforms-3/5e9171f85a30585539d78e6657dcecdb/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/galkinds/.gradle/caches/transforms-3/5e9171f85a30585539d78e6657dcecdb/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.0] /home/galkinds/.gradle/caches/transforms-3/3a6ea1a7bea2b80e12da171c8a65ee35/transformed/lifecycle-livedata-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.0] /home/galkinds/.gradle/caches/transforms-3/3a6ea1a7bea2b80e12da171c8a65ee35/transformed/lifecycle-livedata-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.4.0] /home/galkinds/.gradle/caches/transforms-3/2e1715061c6fbe8dcc83f8a7433a2b64/transformed/lifecycle-livedata-core-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.4.0] /home/galkinds/.gradle/caches/transforms-3/2e1715061c6fbe8dcc83f8a7433a2b64/transformed/lifecycle-livedata-core-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/galkinds/.gradle/caches/transforms-3/1795f362d8f0b276a7b024d495bc3f0a/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/galkinds/.gradle/caches/transforms-3/1795f362d8f0b276a7b024d495bc3f0a/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/galkinds/.gradle/caches/transforms-3/65eda2d6cc7e33898f5e746416552bc2/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/galkinds/.gradle/caches/transforms-3/65eda2d6cc7e33898f5e746416552bc2/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/galkinds/.gradle/caches/transforms-3/f6351afac2b4f8ce0dcaea5c5a0b8e8e/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/galkinds/.gradle/caches/transforms-3/f6351afac2b4f8ce0dcaea5c5a0b8e8e/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/galkinds/.gradle/caches/transforms-3/bbf2246773e2c64a211417c52c4fd0b9/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/galkinds/.gradle/caches/transforms-3/bbf2246773e2c64a211417c52c4fd0b9/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/galkinds/.gradle/caches/transforms-3/2597596328b475a58029c1e2a185ba3e/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/galkinds/.gradle/caches/transforms-3/2597596328b475a58029c1e2a185ba3e/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:dagger-lint-aar:2.35.1] /home/galkinds/.gradle/caches/transforms-3/999d5bfede9b0767f1e4e3e2288fc094/transformed/jetified-dagger-lint-aar-2.35.1/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.35.1] /home/galkinds/.gradle/caches/transforms-3/999d5bfede9b0767f1e4e3e2288fc094/transformed/jetified-dagger-lint-aar-2.35.1/AndroidManifest.xml:18:3-42
+INJECTED from /home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml
+INJECTED from /home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml
+		ADDED from /home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml
+		INJECTED from /home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml
+		ADDED from /home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml
+		INJECTED from /home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] /home/galkinds/.gradle/caches/transforms-3/17fecd81d725e7bba130e18847472907/transformed/jetified-window-1.0.0/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] /home/galkinds/.gradle/caches/transforms-3/17fecd81d725e7bba130e18847472907/transformed/jetified-window-1.0.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] /home/galkinds/.gradle/caches/transforms-3/17fecd81d725e7bba130e18847472907/transformed/jetified-window-1.0.0/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] /home/galkinds/.gradle/caches/transforms-3/17fecd81d725e7bba130e18847472907/transformed/jetified-window-1.0.0/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] /home/galkinds/.gradle/caches/transforms-3/17fecd81d725e7bba130e18847472907/transformed/jetified-window-1.0.0/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] /home/galkinds/.gradle/caches/transforms-3/17fecd81d725e7bba130e18847472907/transformed/jetified-window-1.0.0/AndroidManifest.xml:29:13-51
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.4.0] /home/galkinds/.gradle/caches/transforms-3/463e013742a8c16868f992e375c006d5/transformed/room-runtime-2.4.0/AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.4.0] /home/galkinds/.gradle/caches/transforms-3/463e013742a8c16868f992e375c006d5/transformed/room-runtime-2.4.0/AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.4.0] /home/galkinds/.gradle/caches/transforms-3/463e013742a8c16868f992e375c006d5/transformed/room-runtime-2.4.0/AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.4.0] /home/galkinds/.gradle/caches/transforms-3/463e013742a8c16868f992e375c006d5/transformed/room-runtime-2.4.0/AndroidManifest.xml:26:13-74
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /home/galkinds/.gradle/caches/transforms-3/0e4dece45a4bd23632562a1319d52fc3/transformed/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/galkinds/.gradle/caches/transforms-3/0e4dece45a4bd23632562a1319d52fc3/transformed/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/galkinds/.gradle/caches/transforms-3/0e4dece45a4bd23632562a1319d52fc3/transformed/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/galkinds/.gradle/caches/transforms-3/0e4dece45a4bd23632562a1319d52fc3/transformed/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /home/galkinds/.gradle/caches/transforms-3/9e3a7840017ab69be063f16e93bbe60c/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/galkinds/.gradle/caches/transforms-3/9ad4dc8d16f11e8d0837963977e51ef3/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/galkinds/.gradle/caches/transforms-3/9ad4dc8d16f11e8d0837963977e51ef3/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/galkinds/.gradle/caches/transforms-3/647bc03c38bcb4d66f16baf229bfcd3f/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/galkinds/.gradle/caches/transforms-3/647bc03c38bcb4d66f16baf229bfcd3f/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/galkinds/.gradle/caches/transforms-3/9e3a7840017ab69be063f16e93bbe60c/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/galkinds/.gradle/caches/transforms-3/9e3a7840017ab69be063f16e93bbe60c/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/galkinds/.gradle/caches/transforms-3/9e3a7840017ab69be063f16e93bbe60c/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/galkinds/.gradle/caches/transforms-3/9e3a7840017ab69be063f16e93bbe60c/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /home/galkinds/.gradle/caches/transforms-3/9e3a7840017ab69be063f16e93bbe60c/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/galkinds/.gradle/caches/transforms-3/9e3a7840017ab69be063f16e93bbe60c/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/galkinds/.gradle/caches/transforms-3/9e3a7840017ab69be063f16e93bbe60c/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/galkinds/.gradle/caches/transforms-3/9ad4dc8d16f11e8d0837963977e51ef3/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/galkinds/.gradle/caches/transforms-3/9ad4dc8d16f11e8d0837963977e51ef3/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/galkinds/.gradle/caches/transforms-3/9ad4dc8d16f11e8d0837963977e51ef3/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78

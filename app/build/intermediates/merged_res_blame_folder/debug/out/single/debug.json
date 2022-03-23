@@ -1,0 +1,250 @@
+[
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_label.png.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/src/main/res/mipmap-xxhdpi/label.png"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_baseline_cloud_off_24.png.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_cloud_off_24.png"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/menu_layout_menu.xml.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/src/main/res/menu/layout_menu.xml"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/font_alegreya_bold_italic.xml.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/src/main/res/font/alegreya_bold_italic.xml"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/layout_user_list_item.xml.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/src/main/res/layout/user_list_item.xml"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/font_alegreya_sc_bold_italic.xml.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/src/main/res/font/alegreya_sc_bold_italic.xml"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/mipmap-hdpi_label.png.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/src/main/res/mipmap-hdpi/label.png"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_baseline_format_list_numbered_rtl_24.png.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_format_list_numbered_rtl_24.png"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_baseline_format_list_numbered_rtl_24.png.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_format_list_numbered_rtl_24.png"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/layout_user_card_layout.xml.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/src/main/res/layout/user_card_layout.xml"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_baseline_cloud_off_24.png.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_cloud_off_24.png"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_baseline_format_list_numbered_rtl_24.png.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_format_list_numbered_rtl_24.png"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_baseline_assignment_ind_24.png.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_assignment_ind_24.png"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_baseline_assignment_ind_24.png.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_assignment_ind_24.png"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_baseline_info_24.png.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_info_24.png"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/font_cinzel_bold.xml.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/src/main/res/font/cinzel_bold.xml"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_baseline_format_list_numbered_rtl_24.png.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_format_list_numbered_rtl_24.png"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_baseline_assignment_ind_24.png.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_assignment_ind_24.png"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_baseline_info_24.xml.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_info_24.xml"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_baseline_cloud_off_24.png.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_cloud_off_24.png"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/font_carrois_gothic_sc.xml.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/src/main/res/font/carrois_gothic_sc.xml"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_baseline_assignment_ind_24.png.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_assignment_ind_24.png"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/mipmap-mdpi_label.png.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/src/main/res/mipmap-mdpi/label.png"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/drawable_progress.png.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/src/main/res/drawable/progress.png"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_baseline_assignment_ind_24.png.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_assignment_ind_24.png"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_baseline_assignment_ind_24.png.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_assignment_ind_24.png"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/navigation_nav_graph.xml.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/src/main/res/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_baseline_cloud_off_24.png.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_cloud_off_24.png"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_baseline_format_list_numbered_rtl_24.png.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_format_list_numbered_rtl_24.png"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_baseline_info_24.png.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_info_24.png"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_baseline_cloud_off_24.png.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_cloud_off_24.png"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/layout_user_list_fragment.xml.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/src/main/res/layout/user_list_fragment.xml"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_baseline_info_24.png.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_info_24.png"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_baseline_assignment_ind_24.xml.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_assignment_ind_24.xml"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_baseline_info_24.png.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_info_24.png"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/mipmap-xhdpi_label.png.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/src/main/res/mipmap-xhdpi/label.png"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_baseline_format_list_numbered_rtl_24.xml.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_format_list_numbered_rtl_24.xml"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/font_playfair_display_sc_bold.xml.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/src/main/res/font/playfair_display_sc_bold.xml"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_baseline_cloud_off_24.png.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_cloud_off_24.png"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/font_cormorant_sc_bold.xml.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/src/main/res/font/cormorant_sc_bold.xml"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_launcher_foreground.xml.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_baseline_info_24.png.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_info_24.png"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_label.png.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/src/main/res/mipmap-xxxhdpi/label.png"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/drawable_progress_animation.xml.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/src/main/res/drawable/progress_animation.xml"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/layout_describe.xml.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/src/main/res/layout/describe.xml"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_baseline_format_list_numbered_rtl_24.png.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_format_list_numbered_rtl_24.png"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_baseline_cloud_off_24.xml.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_cloud_off_24.xml"
+    },
+    {
+        "merged": "/home/galkinds/AndroidStudioProjects/AFR/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_baseline_info_24.png.flat",
+        "source": "/home/galkinds/AndroidStudioProjects/AFR/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_info_24.png"
+    }
+]

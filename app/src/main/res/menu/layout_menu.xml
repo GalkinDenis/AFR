@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/usersList_page"
+        android:icon="@drawable/ic_baseline_format_list_numbered_rtl_24"
+        android:title="@string/usersList_page"/>
+    <item
+        android:id="@+id/user_card_page"
+        android:icon="@drawable/ic_baseline_assignment_ind_24"
+        android:title="@string/user_card"/>
+    <item
+        android:id="@+id/describe_page"
+        android:icon="@drawable/ic_baseline_info_24"
+        android:title="@string/describe"/>
+</menu>

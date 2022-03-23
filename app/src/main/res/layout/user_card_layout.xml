@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <TextView
+        style="@style/Widget.About"
+        android:id="@+id/if_empty_text"
+        android:text="@string/if_empty_text"
+        android:fontFamily="sans-serif"
+        android:visibility="gone"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        >
+    </TextView>
+
+    <ImageView
+        android:id="@+id/avatar_head"
+        android:layout_width="160dp"
+        android:layout_height="170dp"
+        android:gravity="center"
+        android:scaleType="centerInside"
+        android:layout_marginTop="80dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/mark"
+        app:layout_constraintBottom_toTopOf="@+id/mark"
+        >
+    </ImageView>
+
+    <TextView
+        style="@style/Widget.DescribeOnUserPageHeader"
+        android:id="@+id/first_name_head"
+        android:fontFamily="sans-serif"
+        app:layout_constraintBottom_toTopOf="@+id/first_name"
+        app:layout_constraintStart_toStartOf="@+id/first_name"
+        >
+    </TextView>
+    <TextView
+        style="@style/Widget.DescribeOnUserPage"
+        android:id="@+id/first_name"
+        app:layout_constraintTop_toTopOf="@+id/avatar_head"
+        app:layout_constraintStart_toStartOf="@+id/email"
+        app:layout_constraintBottom_toTopOf="@+id/last_name"
+        >
+    </TextView>
+
+    <TextView
+        style="@style/Widget.DescribeOnUserPageHeader"
+        android:id="@+id/last_name_head"
+        app:layout_constraintBottom_toTopOf="@+id/last_name"
+        app:layout_constraintStart_toStartOf="@+id/last_name"
+        >
+    </TextView>
+    <TextView
+        style="@style/Widget.DescribeOnUserPage"
+        android:id="@+id/last_name"
+        app:layout_constraintTop_toBottomOf="@+id/first_name"
+        app:layout_constraintStart_toStartOf="@+id/email"
+        app:layout_constraintBottom_toTopOf="@+id/email"
+        >
+    </TextView>
+
+    <TextView
+        style="@style/Widget.DescribeOnUserPageHeader"
+        android:id="@+id/email_head"
+        app:layout_constraintStart_toStartOf="@+id/email"
+        app:layout_constraintBottom_toTopOf="@+id/email"
+        >
+    </TextView>
+    <TextView
+        style="@style/Widget.DescribeOnUserPage"
+        android:id="@+id/email"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/last_name"
+        app:layout_constraintStart_toEndOf="@+id/mark"
+        app:layout_constraintBottom_toBottomOf="@+id/avatar_head"
+        >
+    </TextView>
+
+    <TextView
+        android:id="@+id/mark"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        >
+    </TextView>
+</androidx.constraintlayout.widget.ConstraintLayout>

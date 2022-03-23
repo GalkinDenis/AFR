@@ -1,0 +1,27 @@
+<resources>
+    <!-- PREFIX TEXT-->
+    <string name="pr_name">Name: </string>
+    <string name="first_name_head">Имя: </string>
+    <string name="last_name_head">Фамилия: </string>
+
+    <!--USER CARD-->
+    <string name="if_empty_text">Пользователь не выбран.</string>
+    <string name="first_name">Имя: </string>
+    <string name="last_name">Фамилия: </string>
+    <string name="email_name">Почта: </string>
+
+    <string name="app_name">DescribeApp</string>
+    <string name="usersList_page">Пользователи</string>
+    <string name="user_card">Карточка</string>
+    <string name="describe">О приложении</string>
+    <string name="describe_app">Тестовое задание для Rentateam</string>
+
+    <!-- LABELS-->
+    <string name="users">Список пользователей</string>
+    <string name="card">Карточка пользователя</string>
+    <string name="note">Не удалось загрузить данные, проверьте подключение к интернету.</string>
+
+    <!-- VIEW MODEL FACTORY-->
+    <string name="undefined_model_class">Неопознанный класс модели: </string>
+    <string name="network_error">Произошел сбой загрузки данных, проверьте подключение к интернету.</string>
+</resources>

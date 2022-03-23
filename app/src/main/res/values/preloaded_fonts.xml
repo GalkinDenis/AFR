@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/alegreya_bold_italic</item>
+        <item>@font/alegreya_sc_bold_italic</item>
+        <item>@font/carrois_gothic_sc</item>
+        <item>@font/cinzel_bold</item>
+        <item>@font/cormorant_sc_bold</item>
+        <item>@font/playfair_display_sc_bold</item>
+    </array>
+</resources>

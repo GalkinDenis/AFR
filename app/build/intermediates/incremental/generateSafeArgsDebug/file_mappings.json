@@ -1,0 +1,1 @@
+[{"navFile":"src/main/res/navigation/nav_graph.xml","javaFiles":["com.example.inventory.NavGraphDirections","com.denis.appForRentaTeam.ui.userListFragment.UserListFragmentDirections","com.denis.appForRentaTeam.ui.UserCardDirections","com.denis.appForRentaTeam.ui.UserCardArgs","com.denis.appForRentaTeam.ui.DescribeAppFragmentDirections"]}]

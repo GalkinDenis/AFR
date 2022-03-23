@@ -1,0 +1,53 @@
+com/denis/appForRentaTeam/presentation/viewModels/UserCardViewModel_Factory.java
+ com.denis.appForRentaTeam.presentation.viewModels.UserCardViewModel_Factory
+ com.denis.appForRentaTeam.presentation.viewModels.UserCardViewModel_Factory$InstanceHolder
+com/denis/appForRentaTeam/di/modules/DataModule_ProvideDaoFactory.java
+ com.denis.appForRentaTeam.di.modules.DataModule_ProvideDaoFactory
+com/example/inventory/databinding/ActivityMainBinding.java
+ com.example.inventory.databinding.ActivityMainBinding
+com/denis/appForRentaTeam/data/datasources/database/UsersDao_Impl.java
+ com.denis.appForRentaTeam.data.datasources.database.UsersDao_Impl
+ com.denis.appForRentaTeam.data.datasources.database.UsersDao_Impl$1
+ com.denis.appForRentaTeam.data.datasources.database.UsersDao_Impl$2
+ com.denis.appForRentaTeam.data.datasources.database.UsersDao_Impl$3
+com/denis/appForRentaTeam/presentation/viewModels/UsersViewModel_Factory.java
+ com.denis.appForRentaTeam.presentation.viewModels.UsersViewModel_Factory
+com/denis/appForRentaTeam/data/usersrepositoryimpl/UsersRepositoryImpl_Factory.java
+ com.denis.appForRentaTeam.data.usersrepositoryimpl.UsersRepositoryImpl_Factory
+com/example/inventory/databinding/UserListFragmentBinding.java
+ com.example.inventory.databinding.UserListFragmentBinding
+com/example/inventory/databinding/UserCardLayoutBinding.java
+ com.example.inventory.databinding.UserCardLayoutBinding
+com/denis/appForRentaTeam/data/datasources/localdatasource/LocalDataSourceImpl_Factory.java
+ com.denis.appForRentaTeam.data.datasources.localdatasource.LocalDataSourceImpl_Factory
+com/denis/appForRentaTeam/di/components/DaggerAppComponent.java
+ com.denis.appForRentaTeam.di.components.DaggerAppComponent
+ com.denis.appForRentaTeam.di.components.DaggerAppComponent$1
+ com.denis.appForRentaTeam.di.components.DaggerAppComponent$Factory
+com/denis/appForRentaTeam/presentation/viewModels/ViewModelFactory_Factory.java
+ com.denis.appForRentaTeam.presentation.viewModels.ViewModelFactory_Factory
+com/denis/appForRentaTeam/domain/usecases/LoadUsersUseCase_Factory.java
+ com.denis.appForRentaTeam.domain.usecases.LoadUsersUseCase_Factory
+com/denis/appForRentaTeam/ui/userListFragment/UserListFragment_MembersInjector.java
+ com.denis.appForRentaTeam.ui.userListFragment.UserListFragment_MembersInjector
+com/denis/appForRentaTeam/di/modules/NetworkModule_ProvideRetrofitFactory.java
+ com.denis.appForRentaTeam.di.modules.NetworkModule_ProvideRetrofitFactory
+com/denis/appForRentaTeam/ui/UserCard_MembersInjector.java
+ com.denis.appForRentaTeam.ui.UserCard_MembersInjector
+com/denis/appForRentaTeam/data/datasources/database/UsersRoomDatabase_Impl.java
+ com.denis.appForRentaTeam.data.datasources.database.UsersRoomDatabase_Impl
+ com.denis.appForRentaTeam.data.datasources.database.UsersRoomDatabase_Impl$1
+com/example/inventory/databinding/DescribeBinding.java
+ com.example.inventory.databinding.DescribeBinding
+com/denis/appForRentaTeam/di/modules/DataModule_ProvideDataBaseFactory.java
+ com.denis.appForRentaTeam.di.modules.DataModule_ProvideDataBaseFactory
+com/denis/appForRentaTeam/data/datasources/UsersDataSourceImpl_Factory.java
+ com.denis.appForRentaTeam.data.datasources.UsersDataSourceImpl_Factory
+com/denis/appForRentaTeam/di/modules/NetworkModule_ProvideUsersApiFactory.java
+ com.denis.appForRentaTeam.di.modules.NetworkModule_ProvideUsersApiFactory
+com/denis/appForRentaTeam/domain/usecases/GetUsersUseCase_Factory.java
+ com.denis.appForRentaTeam.domain.usecases.GetUsersUseCase_Factory
+com/example/inventory/BuildConfig.java
+ com.example.inventory.BuildConfig
+com/example/inventory/databinding/UserListItemBinding.java
+ com.example.inventory.databinding.UserListItemBinding

@@ -1,0 +1,112 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.renta"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->/home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->/home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml:5:5-67
+11-->/home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml:5:22-64
+12
+13    <application
+13-->/home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml:7:5-25:19
+14        android:name="com.denis.appForRentaTeam.di.App"
+14-->/home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml:8:9-56
+15        android:allowBackup="true"
+15-->/home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml:9:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.7.0] /home/galkinds/.gradle/caches/transforms-3/23df63874de5a450ccc7bc448559c431/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+17        android:debuggable="true"
+18        android:icon="@mipmap/label"
+18-->/home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml:10:9-37
+19        android:label="@string/app_name"
+19-->/home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml:11:9-41
+20        android:supportsRtl="true"
+20-->/home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml:12:9-35
+21        android:theme="@style/Theme.InventoryApp" >
+21-->/home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml:13:9-50
+22        <activity
+22-->/home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml:14:9-21:20
+23            android:name="com.denis.appForRentaTeam.ui.MainActivity"
+23-->/home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml:15:13-69
+24            android:exported="true" >
+24-->/home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml:16:13-36
+25            <intent-filter>
+25-->/home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml:17:13-20:29
+26                <action android:name="android.intent.action.MAIN" />
+26-->/home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml:18:17-69
+26-->/home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml:18:25-66
+27
+28                <category android:name="android.intent.category.LAUNCHER" />
+28-->/home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml:19:17-77
+28-->/home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml:19:27-74
+29            </intent-filter>
+30        </activity>
+31
+32        <meta-data
+32-->/home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml:22:9-24:57
+33            android:name="preloaded_fonts"
+33-->/home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml:23:13-43
+34            android:resource="@array/preloaded_fonts" />
+34-->/home/galkinds/AndroidStudioProjects/AFR/app/src/main/AndroidManifest.xml:24:13-54
+35
+36        <uses-library
+36-->[androidx.window:window:1.0.0] /home/galkinds/.gradle/caches/transforms-3/17fecd81d725e7bba130e18847472907/transformed/jetified-window-1.0.0/AndroidManifest.xml:25:9-27:40
+37            android:name="androidx.window.extensions"
+37-->[androidx.window:window:1.0.0] /home/galkinds/.gradle/caches/transforms-3/17fecd81d725e7bba130e18847472907/transformed/jetified-window-1.0.0/AndroidManifest.xml:26:13-54
+38            android:required="false" />
+38-->[androidx.window:window:1.0.0] /home/galkinds/.gradle/caches/transforms-3/17fecd81d725e7bba130e18847472907/transformed/jetified-window-1.0.0/AndroidManifest.xml:27:13-37
+39        <uses-library
+39-->[androidx.window:window:1.0.0] /home/galkinds/.gradle/caches/transforms-3/17fecd81d725e7bba130e18847472907/transformed/jetified-window-1.0.0/AndroidManifest.xml:28:9-30:40
+40            android:name="androidx.window.sidecar"
+40-->[androidx.window:window:1.0.0] /home/galkinds/.gradle/caches/transforms-3/17fecd81d725e7bba130e18847472907/transformed/jetified-window-1.0.0/AndroidManifest.xml:29:13-51
+41            android:required="false" />
+41-->[androidx.window:window:1.0.0] /home/galkinds/.gradle/caches/transforms-3/17fecd81d725e7bba130e18847472907/transformed/jetified-window-1.0.0/AndroidManifest.xml:30:13-37
+42
+43        <service
+43-->[androidx.room:room-runtime:2.4.0] /home/galkinds/.gradle/caches/transforms-3/463e013742a8c16868f992e375c006d5/transformed/room-runtime-2.4.0/AndroidManifest.xml:25:9-28:40
+44            android:name="androidx.room.MultiInstanceInvalidationService"
+44-->[androidx.room:room-runtime:2.4.0] /home/galkinds/.gradle/caches/transforms-3/463e013742a8c16868f992e375c006d5/transformed/room-runtime-2.4.0/AndroidManifest.xml:26:13-74
+45            android:directBootAware="true"
+45-->[androidx.room:room-runtime:2.4.0] /home/galkinds/.gradle/caches/transforms-3/463e013742a8c16868f992e375c006d5/transformed/room-runtime-2.4.0/AndroidManifest.xml:27:13-43
+46            android:exported="false" />
+46-->[androidx.room:room-runtime:2.4.0] /home/galkinds/.gradle/caches/transforms-3/463e013742a8c16868f992e375c006d5/transformed/room-runtime-2.4.0/AndroidManifest.xml:28:13-37
+47
+48        <provider
+48-->[com.squareup.picasso:picasso:2.71828] /home/galkinds/.gradle/caches/transforms-3/0e4dece45a4bd23632562a1319d52fc3/transformed/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
+49            android:name="com.squareup.picasso.PicassoProvider"
+49-->[com.squareup.picasso:picasso:2.71828] /home/galkinds/.gradle/caches/transforms-3/0e4dece45a4bd23632562a1319d52fc3/transformed/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64
+50            android:authorities="com.example.renta.com.squareup.picasso"
+50-->[com.squareup.picasso:picasso:2.71828] /home/galkinds/.gradle/caches/transforms-3/0e4dece45a4bd23632562a1319d52fc3/transformed/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
+51            android:exported="false" />
+51-->[com.squareup.picasso:picasso:2.71828] /home/galkinds/.gradle/caches/transforms-3/0e4dece45a4bd23632562a1319d52fc3/transformed/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
+52        <provider
+52-->[androidx.emoji2:emoji2:1.0.0] /home/galkinds/.gradle/caches/transforms-3/9e3a7840017ab69be063f16e93bbe60c/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+53            android:name="androidx.startup.InitializationProvider"
+53-->[androidx.emoji2:emoji2:1.0.0] /home/galkinds/.gradle/caches/transforms-3/9e3a7840017ab69be063f16e93bbe60c/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+54            android:authorities="com.example.renta.androidx-startup"
+54-->[androidx.emoji2:emoji2:1.0.0] /home/galkinds/.gradle/caches/transforms-3/9e3a7840017ab69be063f16e93bbe60c/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+55            android:exported="false" >
+55-->[androidx.emoji2:emoji2:1.0.0] /home/galkinds/.gradle/caches/transforms-3/9e3a7840017ab69be063f16e93bbe60c/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+56            <meta-data
+56-->[androidx.emoji2:emoji2:1.0.0] /home/galkinds/.gradle/caches/transforms-3/9e3a7840017ab69be063f16e93bbe60c/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+57                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+57-->[androidx.emoji2:emoji2:1.0.0] /home/galkinds/.gradle/caches/transforms-3/9e3a7840017ab69be063f16e93bbe60c/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+58                android:value="androidx.startup" />
+58-->[androidx.emoji2:emoji2:1.0.0] /home/galkinds/.gradle/caches/transforms-3/9e3a7840017ab69be063f16e93bbe60c/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+59            <meta-data
+59-->[androidx.lifecycle:lifecycle-process:2.4.0] /home/galkinds/.gradle/caches/transforms-3/9ad4dc8d16f11e8d0837963977e51ef3/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+60                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+60-->[androidx.lifecycle:lifecycle-process:2.4.0] /home/galkinds/.gradle/caches/transforms-3/9ad4dc8d16f11e8d0837963977e51ef3/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+61                android:value="androidx.startup" />
+61-->[androidx.lifecycle:lifecycle-process:2.4.0] /home/galkinds/.gradle/caches/transforms-3/9ad4dc8d16f11e8d0837963977e51ef3/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+62        </provider>
+63    </application>
+64
+65</manifest>
